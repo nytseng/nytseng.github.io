@@ -13,14 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-email:
+title: Nora Tseng
+email: ntseng@wisc.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
+# twitter_username: username
+github_username: nytseng
 minimal_mistakes_skin: default
 search: true
 
@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Nora Tseng"
   avatar : "/assets/images/headshot_2024-circle.png"
-  bio    : "Undergraduate Student at UW-Madison"
+  bio    : "Undergraduate CS Student at UW-Madison. I'm interested in Machine Learning topics including Natural Langauge Processing and Reinforcement Learning."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
