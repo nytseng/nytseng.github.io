@@ -1,9 +1,7 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
   - title: "About"
     url: /about/
+  - title: "Research"
+    url: /research/
+  - title: "Resume"
+    url: https://docs.google.com/document/d/1kDqBgNh1GTQlViHs-PRQfryn3e1sF--f66mhIuul_GQ/edit?usp=sharing
