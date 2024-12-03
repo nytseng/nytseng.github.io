@@ -4,6 +4,6 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 author_profile: true
+permanentlink: /_pages/about.md
 ---
 
-I am currently an undergraduate student at the University of Wisconsin-Madison studying Computer Science. My research interests involve machine learning: natural language processing, reinforcement learning, and computer vision.
