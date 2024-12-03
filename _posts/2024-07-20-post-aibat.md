@@ -5,7 +5,7 @@ categories:
 tags:
   - Post Formats
   - link
-link: https://github.com/landerson02/Adatest-App
+link: https://nytseng.github.io/blog/post-aibat/
 ---
 
 (Spring 2024) AI-Tool demonstrating limitations and capabilities of using LLM-graders in K-12 classrooms. 
