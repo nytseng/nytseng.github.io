@@ -7,7 +7,7 @@ Hi, I'm Nora, a B.S. Computer Science student at the University of Wisconsin-Mad
 
 My interests involve machine learning topics: natural language processing, reinforcement learning, and computer vision. At UW-Madison, I'm currently working as a student research assistant through the School of Educational Psychology, studying LLM bias and limitations in education. I have worked on a few projects under the guidance of [Professor Shamya Karumbaiah](https://shamya.github.io/). 
 
-Check my Projects for more details!
+Check my _Research_ for more details!
 
 <!---
 AIBAT/M-AIBAT: we have developed an tool assisting teachers in identifying limitations in AI-graders. After conducting user-studies with this tool, we are polishing our results for a journal publication in Spring 2025.
