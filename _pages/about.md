@@ -3,6 +3,9 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Hi, I'm Nora, a B.S. Computer Science student at the University of Wisconsin-Madison graduating Winter 2024. This spring, I'm continuing to work on research problems and preparing for graduate school in Fall 2025. 
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+At UW-Madison, I'm currently working as a student research assistant through the School of Educational Psychology, studying LLM bias and limitations. Under the guidance of [Professor Shamya Karumbaiah](https://shamya.github.io/), we have developed an tool assisting teachers in identifying limitations in AI-graders. After conducting user-studies with this tool, we are polishing our results for a journal publication in Spring 2025.
+
+## Activities
+I am active in WACM - ACM's Women in Computing, currently serving as a biweekly coordinator and mentor in their mentoring program.
